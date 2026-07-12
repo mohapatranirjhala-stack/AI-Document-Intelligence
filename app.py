@@ -530,33 +530,9 @@ if len(st.session_state.chat_history) > 0:
 
                 st.markdown("---")
 
-    for q, a, snippets in st.session_state.chat_history:
+    
 
-        st.markdown("### 🙋 You")
-
-        st.info(q)
-
-        st.markdown("### 🤖 AI")
-
-        st.success(a)
-
-        with st.expander(
-            "📄 Retrieved Source Snippets"
-        ):
-
-            for i, snippet in enumerate(
-                snippets,
-                start=1
-            ):
-
-                st.markdown(
-                    f"**Snippet {i}**"
-                )
-
-                st.write(snippet)
-
-                st.markdown("---")
-
+                
 # -----------------------------------
 # Footer
 # -----------------------------------
