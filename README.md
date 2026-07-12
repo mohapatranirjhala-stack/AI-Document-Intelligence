@@ -122,23 +122,53 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Add screenshots inside the `assets/` folder and reference them here.
+### 🏠 Home Page
 
-Example:
-
-```md
-![Home](assets/home.png)
-
-![Summary](assets/summary.png)
-
-![Chat](assets/chat.png)
-
-![OCR](assets/ocr.png)
-
-![Comparison](assets/comparison.png)
-```
+![Home](assets/Home.png)
 
 ---
+
+### 📝 AI Summary
+
+![AI Summary](assets/AIsummary.png)
+
+---
+
+### 💬 Chat with AI
+
+![Chat AI](assets/chatai.png)
+
+---
+
+### ❓ Suggested Questions
+
+![Suggested Questions](assets/questionsai.png)
+
+---
+
+### 🎯 Custom Suggested Questions
+
+![Custom Questions](assets/customizeques.png)
+
+---
+
+### 📄 Retrieved Source Snippets
+
+![Retrieved Snippets](assets/retrievedsnippet.png)
+
+---
+
+### 📋 Meeting Notes Mode
+
+![Meeting Notes](assets/metingnotes.png)
+
+---
+
+### 📑 Document Comparison
+
+![Comparison](assets/comparsion.png)
+
+
 
 ## 🎯 Use Cases
 
