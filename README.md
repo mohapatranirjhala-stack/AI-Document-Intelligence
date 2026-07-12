@@ -3,6 +3,14 @@
 
 An AI-powered document analysis platform that enables users to summarize documents, chat with PDFs using Retrieval-Augmented Generation (RAG), extract insights, compare documents, and process scanned PDFs using OCR.
 
+## 🌐 Live Demo
+
+**🚀 Live Application:**  
+https://ai-document-intelligence-xykswmtxadkhdupzrkn6ru.streamlit.app/
+
+**💻 GitHub Repository:**  
+https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
+
 ---
 
 ## 🚀 Features
@@ -206,7 +214,7 @@ GitHub:
 https://github.com/mohapatranirjhala-stack
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/nirjhala-mohapatra
 
 ---
 
