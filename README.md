@@ -35,7 +35,7 @@ https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
 
 - **Frontend:** Streamlit
 - **Language:** Python
-- **LLM:** Groq (Llama 3.3 70B)
+- **LLM:** Groq (Qwen3.6 27B)
 - **Vector Database:** FAISS
 - **Embeddings:** Sentence Transformers (MiniLM-L6-v2)
 - **OCR:** Tesseract OCR
@@ -240,7 +240,7 @@ If you found this project useful:
 This project was built using:
 
 - Streamlit
-- Groq LLM (Llama 3.3 70B)
+- Groq LLM (Qwen3.6 27B)
 - FAISS
 - Sentence Transformers
 - Tesseract OCR
