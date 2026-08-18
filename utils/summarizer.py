@@ -9,7 +9,7 @@ client = Groq(
     api_key=os.getenv("GROQ_API_KEY")
 )
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "qwen/qwen3.6-27b"
 
 
 def generate_summary(text, summary_length):

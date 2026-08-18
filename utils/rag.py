@@ -13,7 +13,7 @@ client = Groq(
     api_key=os.getenv("GROQ_API_KEY")
 )
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "qwen/qwen3.6-27b"
 
 embedding_model = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
